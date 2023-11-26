@@ -1,0 +1,673 @@
+[13-Oct-2023 22:34:38 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fruitsm1/public_html/panel/src/html/index.php:9
+Stack trace:
+#0 /home/fruitsm1/public_html/panel/src/html/index.php(9): mysqli->__construct('127.0.0.1', 'root', '', 'users')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/panel/src/html/index.php on line 9
+[13-Oct-2023 22:35:48 America/Sao_Paulo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fruitsm1/public_html/panel/src/html/index.php on line 113
+[13-Oct-2023 22:35:48 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fruitsm1/public_html/panel/src/html/index.php:873
+Stack trace:
+#0 /home/fruitsm1/public_html/panel/src/html/index.php(873): mysqli->__construct('127.0.0.1', 'root', '', 'users')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/panel/src/html/index.php on line 873
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fruitsm1/public_html/panel/src/html/index.php on line 113
+[13-Oct-2023 22:35:50 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fruitsm1/public_html/panel/src/html/index.php:873
+Stack trace:
+#0 /home/fruitsm1/public_html/panel/src/html/index.php(873): mysqli->__construct('127.0.0.1', 'root', '', 'users')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/panel/src/html/index.php on line 873
+[13-Oct-2023 22:36:13 America/Sao_Paulo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fruitsm1/public_html/panel/src/html/index.php on line 120
+[13-Oct-2023 22:36:13 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fruitsm1/public_html/panel/src/html/index.php:880
+Stack trace:
+#0 /home/fruitsm1/public_html/panel/src/html/index.php(880): mysqli->__construct('127.0.0.1', 'root', '', 'users')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/panel/src/html/index.php on line 880
+[13-Oct-2023 22:36:49 America/Sao_Paulo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fruitsm1/public_html/panel/src/html/index.php on line 120
+[13-Oct-2023 22:37:42 America/Sao_Paulo] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/fruitsm1/public_html/panel/src/html/index.php on line 114
+[13-Oct-2023 22:37:51 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fruitsm1/public_html/panel/src/html/pagamentos.php:6
+Stack trace:
+#0 /home/fruitsm1/public_html/panel/src/html/pagamentos.php(6): mysqli->__construct('127.0.0.1', 'root', '', 'users')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/panel/src/html/pagamentos.php on line 6
+[15-Oct-2023 05:48:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 05:48:39 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 05:48:39 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[15-Oct-2023 06:40:05 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 06:40:05 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 06:40:05 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[15-Oct-2023 07:02:53 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 07:02:53 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 07:02:53 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[15-Oct-2023 07:07:19 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 07:07:19 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 07:07:19 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[15-Oct-2023 07:15:05 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 07:15:05 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 07:15:05 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[15-Oct-2023 08:40:04 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 08:40:04 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 08:40:04 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[15-Oct-2023 18:08:27 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 18:08:27 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/panel/src/html/index.php on line 804
+[15-Oct-2023 18:08:27 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/panel/src/html/index.php on line 805
+[20-Nov-2023 21:21:26 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:21:30 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:21:53 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:21:59 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:22:06 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:22:14 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:33:04 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 21:43:22 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 22:26:41 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 23:50:36 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection refused in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php:10
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php(10): mysqli->__construct('154.56.49.1', 'u314725032_user...', 'Ru@nhenrique123', 'u314725032_dbsu...')
+#1 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php(5): require('/home/fruitsm1/...')
+#2 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/config.php on line 10
+[20-Nov-2023 23:52:13 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[20-Nov-2023 23:53:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[20-Nov-2023 23:53:25 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[20-Nov-2023 23:53:39 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[20-Nov-2023 23:56:15 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[20-Nov-2023 23:56:55 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 12832' at line 1 in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/mudaComissao.php:15
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/mudaComissao.php(15): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/mudaComissao.php on line 15
+[20-Nov-2023 23:56:58 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 12832' at line 1 in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/mudaComissao.php:15
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/mudaComissao.php(15): mysqli->query('UPDATE users SE...')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/mudaComissao.php on line 15
+[20-Nov-2023 23:57:01 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 00:09:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 01:23:38 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 01:47:46 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 01:48:47 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 01:49:10 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 01:49:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:01:37 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:01:40 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:01:43 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:01:59 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:02:54 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:03:29 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:07:00 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:07:02 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:09:40 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:09:43 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:17:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:28:06 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:33:31 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 02:57:04 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 02:57:47 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:09 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:11 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:14:12 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:15:58 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:17:48 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:19:12 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:20:26 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:22:55 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:23:02 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:28:31 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:28:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:28:38 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:44:34 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 03:51:58 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:12:18 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:12:39 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:13:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:22:42 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUser in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $valorDeposito in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 758
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHora in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 760
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 04:41:17 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 04:43:01 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'field list' in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php:514
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php(514): mysqli->query('SELECT id, name...')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php on line 514
+[21-Nov-2023 04:43:24 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qmount' in 'field list' in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php:514
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php(514): mysqli->query('SELECT transact...')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php on line 514
+[21-Nov-2023 04:43:35 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'qmount' in 'field list' in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php:514
+Stack trace:
+#0 /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php(514): mysqli->query('SELECT transact...')
+#1 {main}
+  thrown in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/payment-do.php on line 514
+[21-Nov-2023 05:29:41 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:29:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:29:41 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:29:41 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:30:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:30:33 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:30:33 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:30:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:30:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:30:57 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:30:57 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:30:57 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:32:49 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:32:49 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:32:49 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:32:49 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:33:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:33:33 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:33:33 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:33:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:33:36 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 588
+[21-Nov-2023 05:33:36 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:33:36 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:33:36 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 787
+[21-Nov-2023 05:34:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 05:34:50 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:34:50 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:34:50 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:35:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 05:35:33 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:35:33 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:35:33 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:35:51 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 05:35:51 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:35:51 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:35:51 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:39:40 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 05:39:40 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:39:40 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:39:40 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 05:44:35 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 05:44:35 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:44:35 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 05:44:35 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 06:21:15 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 06:21:15 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 06:21:15 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 06:21:15 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 06:28:18 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 06:28:18 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 06:28:18 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 06:28:18 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 06:43:41 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 06:43:41 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 06:43:41 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 06:43:41 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:08:10 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:08:10 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:08:10 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:08:10 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:26:28 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:26:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:26:28 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:26:28 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:26:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:26:50 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:26:50 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:26:50 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:27:58 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:27:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:27:58 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:27:58 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:28:28 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:28:28 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:28:28 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:28:28 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:31:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:31:30 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:31:30 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:31:30 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:39:27 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:39:27 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:39:27 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:39:27 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:39:46 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:39:46 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:39:46 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:39:46 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:40:54 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:40:54 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:40:54 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:40:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:44:06 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:44:06 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:44:06 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:44:06 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:48:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:48:21 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:48:21 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:48:21 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 08:51:15 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 08:51:15 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:51:15 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 08:51:15 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:05:52 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:05:52 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:05:52 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:05:52 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:08:04 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:08:04 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:08:04 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:08:04 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:10:53 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:10:53 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:10:53 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:10:53 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:13:54 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:13:54 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:13:54 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:13:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:19:16 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:19:16 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:19:16 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:19:16 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:28:29 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:28:29 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:28:29 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:28:29 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:30:00 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:30:00 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:30:00 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:30:00 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:42:15 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:42:15 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:42:15 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:42:15 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:42:58 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:42:58 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:42:58 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:42:58 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 09:56:13 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 09:56:13 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:56:13 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 09:56:13 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:08:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:13:08 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:13:08 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:13:08 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:13:08 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:13:29 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:13:29 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:13:29 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:13:29 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:18:43 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:18:43 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:18:43 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:18:43 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:19:30 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:19:47 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:19:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:19:47 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:19:47 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:19:54 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:19:54 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:19:54 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:19:54 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:21:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:21:57 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:21:57 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:21:57 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:28:45 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:28:45 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:28:45 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:28:45 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:39:02 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:39:02 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:39:02 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:39:02 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:40:40 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:40:40 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:40:40 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:40:40 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:54:22 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:54:22 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:54:22 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:54:22 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 10:54:26 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 10:54:26 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:54:26 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[21-Nov-2023 10:54:26 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[21-Nov-2023 11:25:18 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 11:34:19 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 11:35:19 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 11:36:20 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 11:37:51 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 11:38:18 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 11:45:22 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 11:45:54 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 11:46:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 11:47:33 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 13:26:24 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 13:30:32 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 13:56:53 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 13:58:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 13:59:15 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 13:59:50 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 14:10:25 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 14:11:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 14:18:35 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:08:12 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:08:14 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:08:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:34:52 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:36:44 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:38:38 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:51:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 15:57:38 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 16:07:58 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 16:21:04 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 16:21:25 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 16:21:30 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 17:03:25 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 17:03:55 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 17:10:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 18:17:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 18:33:42 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 18:49:11 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 18:56:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:25:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:30:06 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:33:11 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:36:48 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:47:29 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:47:32 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 19:48:46 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 19:48:46 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 19:50:21 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 20:03:18 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 20:13:58 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 20:14:02 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 20:14:02 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 20:14:09 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 20:14:09 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 20:14:13 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 20:18:46 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 20:49:34 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 20:52:36 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:01:45 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:02:13 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 21:02:13 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[21-Nov-2023 21:48:26 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:48:29 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:48:45 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:48:48 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:48:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 21:48:52 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 22:25:23 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 22:36:52 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[21-Nov-2023 22:44:07 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 01:47:00 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 01:47:32 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 01:47:32 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 01:47:32 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 02:36:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 02:50:05 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 02:50:08 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 02:56:03 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 03:26:20 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 03:39:05 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 03:51:29 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 03:51:29 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 03:51:29 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 03:51:29 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:02:56 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:02:56 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:02:56 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:02:56 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:12:04 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:12:04 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:12:04 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:12:04 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:13:03 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:13:03 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:13:03 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:13:03 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:16:52 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:16:52 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:16:52 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:16:52 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:16:59 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 04:16:59 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 04:16:59 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 04:24:40 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:24:40 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:24:40 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:24:40 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:27:47 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:27:47 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:27:47 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:27:47 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:32:53 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:48:38 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:48:38 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:48:38 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:48:38 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 04:49:03 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 04:49:03 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:49:03 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 04:49:03 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 05:14:48 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 05:14:48 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:14:48 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:14:48 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 05:18:51 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 05:18:51 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:18:51 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:18:51 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 05:19:06 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 05:19:06 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:19:06 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:19:06 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 05:42:14 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 05:42:14 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:42:14 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:42:14 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 05:42:19 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 05:42:19 America/Sao_Paulo] PHP Warning:  Undefined variable $nameUserUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:42:19 America/Sao_Paulo] PHP Warning:  Undefined variable $valorSaqueU in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 785
+[22-Nov-2023 05:42:19 America/Sao_Paulo] PHP Warning:  Undefined variable $dataHoraUS in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 786
+[22-Nov-2023 06:09:43 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 07:00:11 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 07:10:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 07:11:09 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 07:11:11 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 07:11:11 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 08:57:43 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 08:57:50 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 08:59:57 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 09:56:34 America/Sao_Paulo] PHP Warning:  Undefined variable $total in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/index.php on line 587
+[22-Nov-2023 09:58:50 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 09:58:50 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 09:58:50 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 09:58:50 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
+[22-Nov-2023 09:58:50 America/Sao_Paulo] PHP Warning:  Undefined array key "status" in /home/fruitsm1/public_html/subwaymoney.bet/panel/src/html/afiliados.php on line 636
