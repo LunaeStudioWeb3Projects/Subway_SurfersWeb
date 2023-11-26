@@ -1,5 +1,0 @@
-[13-Oct-2023 21:24:49 America/Sao_Paulo] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/fruitsm1/public_html/panel/html/index.php:38
-Stack trace:
-#0 /home/fruitsm1/public_html/panel/html/index.php(38): mysqli->__construct('127.0.0.1', 'root', '', 'users')
-#1 {main}
-  thrown in /home/fruitsm1/public_html/panel/html/index.php on line 38
