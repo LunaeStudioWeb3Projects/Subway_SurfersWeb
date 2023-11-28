@@ -43,21 +43,7 @@
       background-color: #fff;
     }
 
-    @media (min-aspect-ratio: 1920 1080) {
-      #unity-canvas {
-        width: auto;
-        height: 100%;
-        aspect-ratio: 1920 1080;
-      }
-    }
 
-    @media (max-aspect-ratio: 1920 1080) {
-      #unity-canvas {
-        width: 100%;
-        height: auto;
-        aspect-ratio: 1920 1080;
-      }
-    }
 
     #unity-loading-container {
       position: absolute;
@@ -124,9 +110,9 @@
     var buildUrl = "Build";
     var loaderUrl = buildUrl + "/Subway_SurfersWeb.loader.js";
     var config = {
-      dataUrl: buildUrl + "/Subway_SurfersWeb.data.gz",
-      frameworkUrl: buildUrl + "/Subway_SurfersWeb.framework.js.gz",
-      codeUrl: buildUrl + "/Subway_SurfersWeb.wasm.gz",
+      dataUrl: buildUrl + "/Subway_SurfersWeb.data",
+      frameworkUrl: buildUrl + "/Subway_SurfersWeb.framework.js",
+      codeUrl: buildUrl + "/Subway_SurfersWeb.wasm",
       streamingAssetsUrl: "StreamingAssets",
       companyName: "HighTicket",
       productName: "SubwayMoney",
