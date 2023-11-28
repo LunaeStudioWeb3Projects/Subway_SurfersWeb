@@ -6,7 +6,7 @@
     <title>Unity WebGL Player | SubwayMoney</title>
   </head>
   <body style="text-align: center; padding: 0; border: 0; margin: 0;">
-    <canvas id="unity-canvas" width=960 height=600 style="width: 960px; height: 600px; background: #509CA4"></canvas>
+    <canvas id="unity-canvas" width=1920 height=1080 style="width: 1920px; height: 1080px; background: #509CA4"></canvas>
     <script src="Build/Subway_SurfersWeb.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
@@ -25,9 +25,9 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/946e38f9aca9116e34f9b469696ac4fb.data.gz",
-        frameworkUrl: "Build/a139ee5a021f18ae9353b7178de1f704.js.gz",
-        codeUrl: "Build/266dcd505569a107dbc0c0b48eccfdf9.wasm.gz",
+        dataUrl: "Build/Subway_SurfersWeb.data",
+        frameworkUrl: "Build/Subway_SurfersWeb.framework.js",
+        codeUrl: "Build/Subway_SurfersWeb.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "HighTicket",
         productName: "SubwayMoney",
