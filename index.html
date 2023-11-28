@@ -106,7 +106,6 @@
       transition: 400ms linear;
     }
   </style>
-  <link rel="stylesheet" href="debug-console.css">
 </head>
 
 <body>
@@ -144,7 +143,7 @@
     var loadingContainer = document.querySelector("#unity-loading-container");
     var loadingBar = document.querySelector("#unity-loading-bar-inner");
 
-    var unityGame; // This variable can be used to access the application with .SendMessage() commands
+    var unityGame;
     var script = document.createElement("script");
     script.src = loaderUrl;
     script.onload = function() {
@@ -159,8 +158,7 @@
     };
     document.body.appendChild(script);
   </script>
-  <!-- Add an html debug console and handle unity rich text styling for both html and browser console-->
-  <script src="./debug-console.js"></script>
+  <!-- Parse Unity rich text to render stylized browser console logs -->
+  <script src="./pretty-console.js"></script>
 </body>
-
 </html>
