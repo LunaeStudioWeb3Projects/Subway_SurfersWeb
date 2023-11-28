@@ -33,6 +33,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      background-color: #222;
     }
 
     /* Default values, might be overwritten by aspect ratio media queries */
@@ -42,19 +43,19 @@
       background-color: #fff;
     }
 
-    @media (min-aspect-ratio: 1920) {
+    @media (min-aspect-ratio: 3/1) {
       #unity-canvas {
         width: auto;
         height: 100%;
-        aspect-ratio: 1920;
+        aspect-ratio: 3/1;
       }
     }
 
-    @media (max-aspect-ratio: 1080) {
+    @media (max-aspect-ratio: 1/2) {
       #unity-canvas {
         width: 100%;
         height: auto;
-        aspect-ratio: 1080;
+        aspect-ratio: 1/2;
       }
     }
 
